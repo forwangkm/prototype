@@ -22,6 +22,8 @@
 }
 .placeholder {
 }
+.button {
+}
 .primary_button {
   color:#FFFFFF;
 }
@@ -75,12 +77,22 @@
 }
 .line {
 }
+.radio_button {
+  text-align:left;
+}
+.tree_node {
+  text-align:left;
+}
+.table_cell {
+}
 .sticky_4 {
   font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
   font-weight:400;
   font-style:normal;
   color:#FFFFFF;
   text-align:left;
+}
+.form_disabled {
 }
 ._表单提示 {
   color:#999999;
