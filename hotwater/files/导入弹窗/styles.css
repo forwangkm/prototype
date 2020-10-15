@@ -219,6 +219,7 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
+  visibility:hidden;
 }
 #u2170_img {
   border-width:0px;
@@ -1373,4 +1374,62 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
+}
+#u2199 label {
+  left:0px;
+  width:100%;
+}
+#u2199_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:12px;
+  height:12px;
+}
+#u2199 {
+  border-width:0px;
+  position:absolute;
+  left:170px;
+  top:151px;
+  width:100px;
+  height:16px;
+  display:flex;
+}
+#u2199 .text {
+  position:absolute;
+  align-self:center;
+  padding:0px 2px 0px 2px;
+  box-sizing:border-box;
+}
+#u2199_img.selected {
+}
+#u2199.selected {
+}
+#u2199_img.disabled {
+}
+#u2199.disabled {
+}
+#u2199_img.selectedDisabled {
+}
+#u2199.selectedDisabled {
+}
+#u2199_text {
+  border-width:0px;
+  position:absolute;
+  left:14px;
+  top:0px;
+  width:84px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u2199_input {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+  opacity:0;
 }
